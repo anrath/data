@@ -53,7 +53,7 @@ To run the website locally for testing:
 1. **Start a local server**:
    Using Python (standard on most systems):
    ```bash
-   python3 -m http.server 8000
+   python3 -m http.server 8000 --bind localhost
    ```
    Or using Node.js:
    ```bash
