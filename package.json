@@ -1,0 +1,12 @@
+{
+  "name": "anrath-data",
+  "version": "1.0.0",
+  "description": "Static file repository with dithered homepage",
+  "main": "index.html",
+  "scripts": {
+    "generate": "node generate_manifest.js"
+  },
+  "author": "anrath",
+  "license": "MIT"
+}
+

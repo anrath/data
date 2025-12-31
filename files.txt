@@ -1,0 +1,8 @@
+apple_gray_logo.png
+apple_logo.png
+aruba_logo.jpg
+blank.png
+cursor/prompts/performance.md
+cursor/prompts/security.md
+cursor/prompts/system_architecture.md
+intel_logo.jpg

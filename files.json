@@ -1,0 +1,56 @@
+[
+  {
+    "name": "apple_gray_logo.png",
+    "type": "file",
+    "path": "files/apple_gray_logo.png"
+  },
+  {
+    "name": "apple_logo.png",
+    "type": "file",
+    "path": "files/apple_logo.png"
+  },
+  {
+    "name": "aruba_logo.jpg",
+    "type": "file",
+    "path": "files/aruba_logo.jpg"
+  },
+  {
+    "name": "blank.png",
+    "type": "file",
+    "path": "files/blank.png"
+  },
+  {
+    "name": "cursor",
+    "type": "directory",
+    "path": "files/cursor",
+    "children": [
+      {
+        "name": "prompts",
+        "type": "directory",
+        "path": "files/cursor/prompts",
+        "children": [
+          {
+            "name": "performance.md",
+            "type": "file",
+            "path": "files/cursor/prompts/performance.md"
+          },
+          {
+            "name": "security.md",
+            "type": "file",
+            "path": "files/cursor/prompts/security.md"
+          },
+          {
+            "name": "system_architecture.md",
+            "type": "file",
+            "path": "files/cursor/prompts/system_architecture.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "intel_logo.jpg",
+    "type": "file",
+    "path": "files/intel_logo.jpg"
+  }
+]
