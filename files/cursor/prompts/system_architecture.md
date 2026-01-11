@@ -1,4 +1,4 @@
-Apply architecture best practices to this code:
+Apply architecture best practices to this code. It is okay if there are no changes to the code.
 
 - Use clear, descriptive names that reveal intent (variables, functions, files)
 - Separate concerns: single responsibility per module/component

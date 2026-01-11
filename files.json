@@ -30,6 +30,11 @@
         "path": "files/cursor/prompts",
         "children": [
           {
+            "name": "PR.md",
+            "type": "file",
+            "path": "files/cursor/prompts/PR.md"
+          },
+          {
             "name": "performance.md",
             "type": "file",
             "path": "files/cursor/prompts/performance.md"
